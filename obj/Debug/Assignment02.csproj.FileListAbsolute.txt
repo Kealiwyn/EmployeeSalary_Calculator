@@ -1,0 +1,14 @@
+C:\Users\desse\source\repos\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\desse\source\repos\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\desse\source\repos\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\desse\source\repos\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\desse\source\repos\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\desse\source\repos\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\desse\source\repos\Assignment02\obj\Debug\Assignment02.pdb
+C:\Users\desse\Desktop\Github Repo\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\desse\Desktop\Github Repo\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\desse\Desktop\Github Repo\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\desse\Desktop\Github Repo\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\desse\Desktop\Github Repo\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\desse\Desktop\Github Repo\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\desse\Desktop\Github Repo\Assignment02\obj\Debug\Assignment02.pdb
